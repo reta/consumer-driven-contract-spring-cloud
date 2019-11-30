@@ -1,0 +1,10 @@
+logging:
+  level:
+    ROOT: INFO
+    
+spring:
+  application:
+    name: order-service
+  main:
+    web-application-type: none
+    
